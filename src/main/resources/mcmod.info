@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SSMod",
+  "name": "Skyblock Scripts",
+  "description": "Este es mi primer script para ser millonario en minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lewboski"],
+  "credits": "Esman es el baby bro",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
